@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{0520B487-2B55-4667-BF02-FD3FF008730A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Perpus PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Perpus/Program.cs">
+    <Files>
+      <File FileName="Perpus/Startup.cs" Line="37" Column="103" />
+      <File FileName="Perpus/Models/Buku.cs" Line="12" Column="2" />
+      <File FileName="Perpus/appsettings.json" Line="3" Column="16" />
+      <File FileName="Perpus/Controllers/BukuController.cs" Line="25" Column="74" />
+      <File FileName="Perpus/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Perpus" expanded="True" selected="True">
+            <Node name="Perpus" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
